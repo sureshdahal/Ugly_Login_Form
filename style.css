@@ -1,0 +1,63 @@
+body {
+    padding:0;
+    margin:0;
+}
+
+#wel {
+
+    background-color:pink;
+    height:50px;
+    width:100%;
+    line-height:50px;
+    font-size:20px;
+    text-align:center;
+    padding:5px;
+    color:red;
+    font-style:bold;
+    border:2px solid red;
+
+}
+
+#body {
+    background-color:white;
+    height:445px;
+    width:auto;
+    text-align:center;
+    font-size:25px;
+    font-style:bold;
+    padding:10px;
+    color:red;
+}
+
+form input{
+    
+    margin-bottom:10px;
+    margin-top:10px;
+    font-size:18px;
+    padding:15px;
+    border:2px solid red;
+    border-radius:10px;
+    box-sizing:border-box;
+    outline:none;
+    color:red;
+}
+
+::placeholder {
+    color:red;
+}
+#sub {
+    background-color:pink;
+    padding:10px 15px 10px 15px;
+}
+
+#footer {
+    background-color:pink;
+    height:50px;
+    width:100%;
+    font-size:16px;
+    color:red;
+    border:2px solid red;
+    text-align:center;
+    bottom:0;
+    line-height:50px;
+}
